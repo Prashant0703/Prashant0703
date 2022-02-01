@@ -49,7 +49,7 @@ About me
 **Connect with me:**
 
 [<img align="left" alt="Prashant Dwivedi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/dwivediprashant1/)
-**[<img align="left" alt="Prashant Dwivedi | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="pragya3103"/>](https://www.hackerrank.com/pragya3103)
+<!--[<img align="left" alt="Prashant Dwivedi | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="pragya3103"/>](https://www.hackerrank.com/pragya3103)-->
 
 
 
