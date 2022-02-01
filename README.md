@@ -43,13 +43,10 @@ About me
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/apacheairflow.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/apachespark.svg"></code>
 
-<!--| <a href="https://github.com/pragya3103/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pragya3103&show_icons=true&hide_border=true" alt="Rita's github stats" /></a> | <a href="https://github.com/pragya3103/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragya3103&layout=compact&hide_border=true&langs_count=8" /></a> |
-**| ------------- | ------------- |-->
-
 **Connect with me:**
 
 [<img align="left" alt="Prashant Dwivedi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/dwivediprashant1/)
-<!--[<img align="left" alt="Prashant Dwivedi | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="pragya3103"/>](https://www.hackerrank.com/pragya3103)-->
+
 
 
 
