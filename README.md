@@ -43,10 +43,10 @@ About me
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/apacheairflow.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/apachespark.svg"></code>
 
+
+
 **Connect with me:**
 
 [<img align="left" alt="Prashant Dwivedi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/dwivediprashant1/)
-
-
 
 
