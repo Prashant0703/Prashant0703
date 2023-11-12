@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 About me
-- 💼 Data Engineer @ Fractal
+- 💼 Data Engineer @ Rich Products Corporation 
 - ❤️ I love coding in Python
 - 🌱 I’m currently learning Azure, PySpark and DevOps
 - 👀 I’m interested in automation of the boring stuff
